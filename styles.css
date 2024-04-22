@@ -98,7 +98,7 @@
     border-radius: 0.8em;
   }
 
-  h3 {
+  h2 {
     color: var(--Dark-Raspberry);
     font-size: 1.25em;
     font-weight: var(--fw-6);
@@ -145,7 +145,7 @@
 
 
 /* Ingredients, Instructions, Nutrition */  
-  h2 {
+  h3 {
     font-family: var(--ff-young-serif);
     color: var(--Nutmeg);
     font-size: 1.75em;
@@ -215,7 +215,7 @@ footer {
 }
 
 .attribution a {
-  text-decoration: none;
+/*   text-decoration: none; */
   color: var(--Nutmeg);
 }
 
